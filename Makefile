@@ -1,5 +1,5 @@
-obj-m := hello.o
-obj-m += hello-2.o
+obj-m += hello.o hello-2.o hello-3.o hello-4.o
+
 MAKE = /usr/bin/make
 
 all:
