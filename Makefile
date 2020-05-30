@@ -6,4 +6,4 @@ all:
 	mkdir -p build/ && $(MAKE) -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules && mv *.o *.ko *.mod.c .hello* Module.symvers modules.order ./build
 
 clean:
-	rm -rf build
+	rm -rf build .tmp_versions
