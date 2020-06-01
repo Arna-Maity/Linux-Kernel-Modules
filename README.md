@@ -10,3 +10,8 @@ Reference: [The LKM programming Guide](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.
 4. Module Parameters.
 5. Simple Character Device Driver.
 6. /proc File System Module.
+
+### Some useful StackOverflow Threads:
+1. [proc_root](https://stackoverflow.com/questions/2531730/linux-kernel-module-creating-proc-file-proc-root-undeclared-error)
+2. [Using newer Kernel APIs](https://devarea.com/linux-kernel-development-creating-a-proc-file-and-interfacing-with-user-space/#.XtSHRhbhWUk)
+3. [create_proc_entry() alternative](https://stackoverflow.com/questions/18565381/what-is-alternative-of-create-proc-entry)
