@@ -3,7 +3,8 @@ obj-m += hello.o \
 		 hello-3.o \
 		 hello-4.o \
 		 hello-5.o \
-		 chardev.o
+		 chardev.o \
+		 procfs.o
 
 MAKE = /usr/bin/make
 
