@@ -13,6 +13,7 @@ Reference: [The LKM programming Guide](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.
 5. Simple Character Device Driver.
 6. /proc File System Module.
 7. /proc using Standard File System.
+8. Managing procfs with seq_file.
 
 ### Some useful StackOverflow Threads:
 1. [proc_root](https://stackoverflow.com/questions/2531730/linux-kernel-module-creating-proc-file-proc-root-undeclared-error)
