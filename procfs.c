@@ -35,7 +35,7 @@ static int __init procfs_init(void){
     if (Our_Proc_File == NULL){
         printk(KERN_ALERT"Error: Could not initialize /proc/%s \n",PROCFS_NAME);
         return -ENOMEM;
-    }
+    }  
 
     printk(KERN_INFO"/proc/%s is created. \n",PROCFS_NAME);
     return 0;
