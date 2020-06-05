@@ -1,5 +1,7 @@
 # Linux Kernel Modules
 
+[![HitCount](http://hits.dwyl.com/Arna-Maity/Linux-Kernel-Modules.svg)](http://hits.dwyl.com/Arna-Maity/Linux-Kernel-Modules)
+
 This repo contains some very basic linux kernel modules to illustrate the basic concepts of kernel programming.
 
 Reference: [The LKM programming Guide](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf).
@@ -10,6 +12,7 @@ Reference: [The LKM programming Guide](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.
 4. Module Parameters.
 5. Simple Character Device Driver.
 6. /proc File System Module.
+7. /proc using Standard File System.
 
 ### Some useful StackOverflow Threads:
 1. [proc_root](https://stackoverflow.com/questions/2531730/linux-kernel-module-creating-proc-file-proc-root-undeclared-error)
