@@ -14,6 +14,10 @@ Reference: [The LKM programming Guide](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.
 6. /proc File System Module.
 7. /proc using Standard File System.
 8. Managing procfs with seq_file.
+9. IOCTL (Input/Output ConTroL).
+
+### Tracing syscalls while executing a program:
+`strace <prg-name> <args>`
 
 ### Some useful StackOverflow Threads:
 1. [proc_root](https://stackoverflow.com/questions/2531730/linux-kernel-module-creating-proc-file-proc-root-undeclared-error)
