@@ -23,3 +23,7 @@ Reference: [The LKM programming Guide](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.
 1. [proc_root](https://stackoverflow.com/questions/2531730/linux-kernel-module-creating-proc-file-proc-root-undeclared-error)
 2. [Using newer Kernel APIs](https://devarea.com/linux-kernel-development-creating-a-proc-file-and-interfacing-with-user-space/#.XtSHRhbhWUk)
 3. [create_proc_entry() alternative](https://stackoverflow.com/questions/18565381/what-is-alternative-of-create-proc-entry)
+
+### Courses on Basic Linux Kernel Development
+
+1. [A Beginners Guide to Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/) (Linux Foundation)
